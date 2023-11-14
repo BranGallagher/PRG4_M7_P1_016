@@ -901,11 +901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MJ\\Kampus\\Semester 3\\PRG4\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\PRG4_M7_P1_016.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Documents\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\PRG4_M7_P1_016.csproj",
       "projectName": "PRG4_M7_P1_016",
-      "projectPath": "F:\\MJ\\Kampus\\Semester 3\\PRG4\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\PRG4_M7_P1_016.csproj",
+      "projectPath": "C:\\Users\\student\\Documents\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\PRG4_M7_P1_016.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "F:\\MJ\\Kampus\\Semester 3\\PRG4\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\obj\\",
+      "outputPath": "C:\\Users\\student\\Documents\\PRG4_M7_P1_016\\PRG4_M7_P1_016\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",

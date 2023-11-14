@@ -21,5 +21,7 @@ namespace PRG4_M7_P1_016.Models
         [Required(ErrorMessage = "Nomor Telepon wajib diisi")]
         [RegularExpression(@"^\d{10,13}$", ErrorMessage = "Nomor telepon harus terdiri dari 10 hingga 13 digit angka.")]
         public string noHP { get; set; }
+
+        public string nyobagit { get; set; }
     }
 }
